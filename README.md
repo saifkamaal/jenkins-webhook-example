@@ -1,2 +1,2 @@
 # jenkins-pipeline-tutorial
-Jenkins Pipeline Tutorial Changes
+Jenkins Pipeline Tutorial
